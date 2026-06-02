@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch USOM IP list
         run: |
-          python update_edl.py --type ip --output feeds/ip.txt
+          python scripts/update_edl.py --type ip --output feeds/ip.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
