@@ -1,0 +1,30 @@
+on:
+  schedule:
+    - cron: "20 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-url-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Fetch USOM URL list
+        run: |
+          mkdir -p feeds
+          python scripts/fetch_usom.py --type url --output feeds/url.txt
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update USOM URL feed"
+          file_pattern: feeds/url.txt
