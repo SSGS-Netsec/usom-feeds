@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch USOM Domain list
         run: |
-          python update_edl.py --type domain --output feeds/domain.txt
+          python scripts/update_edl.py --type domain --output feeds/domain.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
