@@ -1,3 +1,5 @@
+name: USOM Domain Feed
+
 on:
   schedule:
     - cron: "10 */6 * * *"
@@ -21,8 +23,7 @@ jobs:
 
       - name: Fetch USOM Domain list
         run: |
-          mkdir -p feeds
-          python scripts/fetch_usom.py --type domain --output feeds/domain.txt
+          python update_edl.py --type domain --output feeds/domain.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
