@@ -1,0 +1,15 @@
+<
+<!doctype html>
+<body>
+<div id="swagger-ui"><
+<head>
+<html lang="en">
+<link rel="stylesheet" href="swagger-ui.css" 
+<meta
+<meta charset="utf-8" 
+<meta name="viewport" content="width=device-width, initial-scale=1" 
+<script src="swagger-ui-bundle.js"><
+<script src="usom.js"><
+<title>t.c. siber güvenlik başkanlığı<
+content="swaggeriu"
+name="description"
