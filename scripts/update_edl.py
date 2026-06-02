@@ -1,10 +1,56 @@
-#!/usr/bin/env python3
-
-import argparse
 import requests
+import os
+import argparse
 import sys
 
-USOM_API = "https://www.usom.gov.tr/api/address/index"
+BASE_URL = "https://siberguvenlik.gov.tr/api/address/index"
+PER_PAGE = 5000
+
+headers = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "application/json",
+}
+
+def fetch_type(ioc_type):
+    page = 0
+    results = []
+
+    while True:
+        params = {
+            "type": ioc_type,
+            "page": page,
+            "per-page": PER_PAGE
+        }
+
+        r = requests.get(
+            BASE_URL,
+            params=params,
+            headers=headers,
+            timeout=60,
+            allow_redirects=True
+        )
+
+        r.raise_for_status()
+
+        data = r.json()
+        models = data.get("models", [])
+
+        if not models:
+            break
+
+        for item in models:
+            value = item.get("url") or item.get("address") or item.get("value")
+            if value:
+                results.append(value.strip())
+
+        page_count = data.get("pageCount", 1)
+        page += 1
+
+        if page >= page_count:
+            break
+
+    return sorted(set(results))
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -12,47 +58,22 @@ def main():
     parser.add_argument("--output", required=True)
     args = parser.parse_args()
 
-    results = set()
-    page = 1
+    os.makedirs(os.path.dirname(args.output), exist_ok=True)
 
     try:
-        while True:
-            r = requests.get(
-                USOM_API,
-                params={"q": "", "type": args.type, "page": page},
-                headers={
-                    "Accept": "application/json",
-                    "User-Agent": "Mozilla/5.0"
-                },
-                timeout=60
-            )
-            r.raise_for_status()
-
-            data = r.json()
-            models = data.get("models", [])
-
-            if not models:
-                break
-
-            for item in models:
-                value = item.get("url") or item.get("address")
-                if value:
-                    results.add(value.strip())
-
-            if page >= int(data.get("pageCount", page)):
-                break
-
-            page += 1
+        results = fetch_type(args.type)
 
         with open(args.output, "w", encoding="utf-8") as f:
-            for item in sorted(results):
-                f.write(item + "\n")
+            f.write("\n".join(results))
+            f.write("\n")
 
-        print(f"{args.type} feed created: {len(results)} records")
+        print(f"{args.type} count: {len(results)}")
+        print(f"Output: {args.output}")
 
     except Exception as e:
         print(f"Hata: {e}")
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
