@@ -5,15 +5,17 @@ import sys
 
 BASE_URL = "https://siberguvenlik.gov.tr/api/address/index"
 PER_PAGE = 5000
+MAX_RECORDS = 100000
 
 headers = {
     "User-Agent": "Mozilla/5.0",
     "Accept": "application/json",
 }
 
+
 def fetch_type(ioc_type):
     page = 0
-    results = []
+    results = set()
 
     while True:
         params = {
@@ -39,9 +41,20 @@ def fetch_type(ioc_type):
             break
 
         for item in models:
-            value = item.get("url") or item.get("address") or item.get("value")
+            value = (
+                item.get("url")
+                or item.get("address")
+                or item.get("value")
+            )
+
             if value:
-                results.append(value.strip())
+                results.add(value.strip())
+
+                if len(results) >= MAX_RECORDS:
+                    print(
+                        f"{ioc_type.upper()} limiti ({MAX_RECORDS}) ulaşıldı."
+                    )
+                    return sorted(results)
 
         page_count = data.get("pageCount", 1)
         page += 1
@@ -49,26 +62,39 @@ def fetch_type(ioc_type):
         if page >= page_count:
             break
 
-    return sorted(set(results))
+    return sorted(results)
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--type", required=True, choices=["ip", "domain", "url"])
-    parser.add_argument("--output", required=True)
+    parser.add_argument(
+        "--type",
+        required=True,
+        choices=["ip", "domain", "url"]
+    )
+    parser.add_argument(
+        "--output",
+        required=True
+    )
+
     args = parser.parse_args()
 
-    os.makedirs(os.path.dirname(args.output), exist_ok=True)
-
     try:
+        output_dir = os.path.dirname(args.output)
+
+        if output_dir:
+            os.makedirs(output_dir, exist_ok=True)
+
         results = fetch_type(args.type)
 
         with open(args.output, "w", encoding="utf-8") as f:
             f.write("\n".join(results))
             f.write("\n")
 
-        print(f"{args.type} count: {len(results)}")
-        print(f"Output: {args.output}")
+        print(f"Type      : {args.type}")
+        print(f"Count     : {len(results)}")
+        print(f"Max Limit : {MAX_RECORDS}")
+        print(f"Output    : {args.output}")
 
     except Exception as e:
         print(f"Hata: {e}")
