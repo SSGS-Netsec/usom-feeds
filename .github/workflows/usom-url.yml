@@ -1,3 +1,5 @@
+name: USOM URL Feed
+
 on:
   schedule:
     - cron: "20 */6 * * *"
@@ -21,8 +23,7 @@ jobs:
 
       - name: Fetch USOM URL list
         run: |
-          mkdir -p feeds
-          python scripts/fetch_usom.py --type url --output feeds/url.txt
+          python update_edl.py --type url --output feeds/url.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
