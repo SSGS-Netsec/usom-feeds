@@ -1791,7 +1791,6 @@
 195023-coinbase.com
 195834-coinbase.com
 196832.cloud
-197-188-02-05.com
 197253-trezor.io
 198-189-120-225.site
 198-189-120-225.space
@@ -5502,6 +5501,7 @@ a101agustosdason.duckdns.org
 a101agustosfrsatiozel.duckdns.org
 a101aktuel.wanyweb.com
 a101aktuelburada.com
+a101aktuelfiyatlari.com
 a101aldinaldin.duckdns.org
 a101aldn.duckdns.org
 a101aldnaldnkampanya.xyz
@@ -11345,6 +11345,8 @@ avsfilosu.com
 avskirala.net
 avskiralama.online
 avskiralama.rent
+avskiralamafilo.com
+avskiralamafilo.online
 avskiralik.com
 avskoc.com
 avskoc.org
@@ -24523,7 +24525,6 @@ crfdn-cfry.shop
 crfdsncrfsyaglyrcrfssa.com
 crfern-sectikleri.com
 crfffscdncrfdsyahmnal.com
-crffrsasbbtbrda.com
 crffrsatlarii.xyz
 crffrsdngelcklr.com
 crffrsdyizbiz.cfd
@@ -25023,7 +25024,6 @@ cumakampanyasi.online
 cumaonlineozel6.com
 cumaonlnefrstmz.com
 cumaramazanaksam.com
-cumarteifirsataddresi.online
 cumartesi-agustsindrm.net
 cumartesi-firsatlari-1o1.shop
 cumartesi-siparis101.com
@@ -30501,7 +30501,6 @@ enhjvlo.storage.googleapis.com
 eni-vip.com
 enigmaloom.com
 enigmax.cloud
-enigmax.online
 enigmax.sbs
 enigmax.shop
 enigmax.space
@@ -35486,6 +35485,7 @@ garantibbva-basvuru-online-krediler.duckdns.org
 garantibbva-basvuru-onlinekredi.duckdns.org
 garantibbva-com-tr.replit.app
 garantibbva-hesabim.com
+garantibbva-isbank.com.ph
 garantibbva-isube.ru.com
 garantibbva-isube.sa.com
 garantibbva-isube.za.com
@@ -67249,6 +67249,8 @@ paribu-carkcekilisi.com
 paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
+paribu-cekilisim.live
+paribu-cekilisim.online
 paribu-cekilisleri.com
 paribu-cekilislerim.live
 paribu-cekilislerim.online
@@ -74513,7 +74515,6 @@ royalblue-toad-449138.hostingersite.com
 royalcheck.me
 royalcicek.com
 royale.baby
-royale.lat
 royalex.pro
 royalreelsaustralia.org
 royalsabit2026.com
@@ -77079,6 +77080,7 @@ selfad.gleeze.com
 selfcurious.com
 selgebeachmanavgat.com
 selgebeachresortside.com
+selgebeachs.com
 selgebeachsresorts.com
 selgehotels.com
 selgeotelside.com
@@ -91301,7 +91303,6 @@ uyapgov.org
 uyapgov.us
 uyapgovtr.nl
 uyapkurumportal.netlify.app
-uyapmail.com
 uyapportal.duckdns.org
 uyapportal.org
 uyapportalin.vercel.app
@@ -99751,7 +99752,6 @@ zraatfastgiris.duckdns.org
 zraatgirisfast.duckdns.org
 zraathemenhazir.com.tr
 zraathiziliengris.duckdns.org
-zraathizligirisinizzz.duckdns.org
 zraatienhizligirisi.duckdns.org
 zraatinenlerin.duckdns.org
 zraatlinindostu.duckdns.org
