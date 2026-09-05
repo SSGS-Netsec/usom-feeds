@@ -1659,7 +1659,6 @@
 1770000000.xyz
 177253-coinbase.com
 177954coinbase.com
-178-158-196-2.com
 178-158-196-3.com
 178-858-969-8545-9856-659.site
 178-8589-2510054-8554552-5666.site
@@ -2832,6 +2831,8 @@
 3212221112445479890.duckdns.org
 3212221112445479892.duckdns.org
 3212221112445479895.duckdns.org
+3212221112445479897.duckdns.org
+3212221112445479898.duckdns.org
 32123123132131322123.space
 321321321.vercel.app
 32132543.click
@@ -3766,7 +3767,6 @@
 581642.cloud
 582751v-coinbase.com
 583741926.lat
-5842.cloud
 58475226235125.duckdns.org
 5858520523jhf.duckdns.org
 586435.cloud
@@ -6416,7 +6416,6 @@ advertipros.com
 advertiseing.click
 advertoza.xyz
 adverttisings.vip
-advfiit.com
 adviceturn.xyz
 advisary.army-govbd.info
 advisorflux.com
@@ -7532,7 +7531,6 @@ aktuel.101-comdsl.art
 aktuel.101-eylulurunleri.net
 aktuel.101-mayis25aksam.com
 aktuel.101-mayissongun.com
-aktuel.101-saliaksms.com
 aktuel.101mayis16oglen.com
 aktuel.101mayis26aksam.com
 aktuel.9tem-muz.com
@@ -18184,7 +18182,6 @@ buradan-baglandiniz-mutlu-oldunuz.com
 buradan-bizlere-sevgilere-biraz-yakin-dururuz.com
 buradan-durumunuzu-sorgulayin.cyou
 buradan-ekrandan-sorgulayin.cyou
-buradan-geriyedonuk-odemesorgula.site
 buradan-heyecanliyiz-bugun.shop
 buradan-heyecanliyiz-bugunde.shop
 buradan-heyecanliyiz-yarinda.shop
@@ -20429,6 +20426,7 @@ cep-mobil-teb-bireysel.my-homeip.net
 cep-mobil.sbs
 cep-mobilden.my-homeip.net
 cep-subem-firsatlar.duckdns.org
+cep-te-teb.my-homeip.de
 cep-te-teb.myonlineportal.de
 cep-teb-bireysel.my-homeip.net
 cep-tebde-promosyonlar.duckdns.org
@@ -20724,6 +20722,7 @@ cewopoujoa.com
 cexderted.click
 cexpxg.xyz
 cexsefetere.click
+ceyhunturizm.com
 ceylanotoyedekparca.com.tr
 ceza-davalarim.xyz
 ceza-dosyalarim.xyz
@@ -30021,7 +30020,6 @@ emrekelxdlxo.space
 emrequery.com
 emrequery.online
 emrequery.xyz
-emsalproma10.click
 emsalproma12.click
 emsalproma13.click
 emsalproma14.click
@@ -30685,6 +30683,7 @@ esenlikyolu.com
 esenyurtcahannam.duckdns.org
 eserrvisinn.com
 eservicesa.live
+eservishizmetleriniz1.online
 esf-kg.com
 eshalug.com
 esharedonedrivefile.com
@@ -34322,7 +34321,6 @@ frostman.shop
 frostwillow.site
 frostwoodtrail.site
 froze.pro
-frozecheck.site
 frozeinc.site
 frozesystems.xyz
 frozzenpath.top
@@ -35179,6 +35177,7 @@ garantibbva-onlinekredi-islem.duckdns.org
 garantibbva-onlinekredi-islemi.duckdns.org
 garantibbva-onlinekredi-islemler.duckdns.org
 garantibbva-onlinekredi-islemleri.duckdns.org
+garantibbva-paramguvende.com
 garantibbva-promosyon.rf.gd
 garantibbva-titles.com.ph
 garantibbva-vero.ph
@@ -43627,6 +43626,7 @@ hmbgovtr.one
 hmbkxcbv.art
 hmbmaliye.org
 hmbrstkynd.xyz
+hmbsorgu.org
 hmdllkhahs.com
 hmdllkhahssag.com
 hmdllmttlsm.com
@@ -44054,6 +44054,7 @@ hort.garden
 horyhk.click
 horzone.com
 hose-jerusalem-sure-older.trycloudflare.com
+hosemenst.duckdns.org
 hosg-eld-in-y0n.store
 hosgeldin2026.cfd
 hosgeldin2026lndirimleri.com
@@ -45188,7 +45189,6 @@ ifirsatvolta1o1.lat
 ifirsatvolta1o1.sbs
 ifonedaybetellmee.top
 ifoodgarantibbva.com.ph
-iftarsofrasipttden.cfd
 ig-kutuphane.cfd
 ig-turkiye.com
 igabes.click
@@ -45405,6 +45405,7 @@ ile-alisverislerim.com.tr
 ile-alisverislerini-tamamlama.com
 ile-e-islem.com.tr
 ile-e-islemler.com.tr
+ile-e-islemlerle.com.tr
 ile-e-sepet.com.tr
 ile-e-sepetler.com.tr
 ile-guvende-islemini-yap.com
@@ -47018,7 +47019,6 @@ isbilgitakip.my-homeip.com
 isbirligi.click
 isbk.online
 isbkbsr.com
-isbknlbkbs.duckdns.org
 isbkonline.it.com
 isbmobilbasvuruekrani.sbs
 isbnk-emekliibsvruuu.ip-ddns.com
@@ -47633,6 +47633,7 @@ istanbulbabsoktyu.com
 istanbulbaki.shop
 istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
+istanbulbbelllgim.xyz
 istanbulbbislemleriniz.click
 istanbulbe.biz
 istanbulbe.click
@@ -49632,7 +49633,6 @@ kacinilmazfirsatlarsizlerlesepettekiurunler.xyz
 kacinilmazfirsatlarsizlerlesepetteurunlerindirim.com.tr
 kacinilmazfirsatlarsizlerlesepetteurunlerindirim.online
 kacinilmazfirsatlarsizlerlesepetteurunlerindirim.xyz
-kacinilmazfirsatlarsizlerlesongunbugun.com.tr
 kacinilmazfirsatlarsizlerlesongunbugunn.com.tr
 kacinilmazfirsatlarsizlerlesongunbugunn.online
 kacinilmazfirsatlarsizlerlesongunbugunn.xyz
@@ -58852,7 +58852,6 @@ martayi-aktarmaekrani.cyou
 martayi-aktarvesorgula.cyou
 martayikaraca.com
 martayindakiindrmlerbirbaskadir.shop
-martayindirie.click
 martayindirim.click
 martayindirime.click
 martayindirir.click
@@ -58860,7 +58859,6 @@ martayindirir6.click
 martayindirirm.click
 martayiramazanfirsatlari.com
 martayndanfrsatlarmdan.com.tr
-martfirsatlari.com.tr
 martfirsatlari.info.tr
 martfirsatlari.org.tr
 marthalercarlen.sbs
@@ -59854,6 +59852,7 @@ mhhres.dns.navy
 mhhrsvatandasgiris.duckdns.org
 mhhsrssahsa.site
 mhhsrssbhsa.site
+mhhssaaakaliya.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
@@ -72975,8 +72974,6 @@ ramazanindrn.click
 ramazaninfirsati.com.tr
 ramazaninfirsati.online
 ramazaninfirsatlarindeyiz.com
-ramazaninindirim.click
-ramazaninindirimi.click
 ramazaniserifiadelerim.site
 ramazankampanyalari.xyz
 ramazankampanyalarinikacirmasonsaatler.com.tr
@@ -73671,6 +73668,7 @@ reklamlar.icu
 reklamlar.sbs
 reklamlara1o1sinirli.duckdns.org
 reklamlardasorunvar.click
+reklamlaronlineak.sbs
 reklamlink26.vercel.app
 reklamlink56.vercel.app
 reklamlinkkampanya.vercel.app
@@ -74259,7 +74257,6 @@ rmznfrst.sytes.net
 rmznnicinhrsy.live
 rmznnicinhrsy.shop
 rmznozeldir.blogspot.com
-rmznrmzn.click
 rmzntrmsfrstlrm.shop
 rmzrmznwxwx.click
 rnarriotthotels.com
@@ -75457,7 +75454,9 @@ sahibinden-get.emobileservislerr.com
 sahibinden-get.emobileservislerrn.online
 sahibinden-get.emobilservislerim.com
 sahibinden-get.eonayservishizmetin.com
+sahibinden-get.eservisalimin1.online
 sahibinden-get.eservisalimlar.com
+sahibinden-get.eservishizmetleriniz1.online
 sahibinden-get.eurun-onay-hizmetler.shop
 sahibinden-get.eurun-onayi-hizmetler.com
 sahibinden-get.eurun-servis-hizmetler.com
@@ -75590,6 +75589,7 @@ sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-alisveris-islemlerim.online
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-islemler-param-guvende.online
+sahibinden-getilan.tr-web-islemler.online
 sahibinden-getilan.ty-hizmet.online
 sahibinden-gets.e-islemler-alisveris-tr.sa.com
 sahibinden-gets.e-param-guvende-tr.online
@@ -76493,6 +76493,7 @@ satin-al-siparis.com
 satin-alim-islemleri.com
 satin-ile-alimim.com.tr
 satinal-guvendealisveris.com
+satinal-hemen.com
 satinal-siparis.com
 satinal.cfd
 satinal.sbs
@@ -78647,7 +78648,6 @@ simdi-40binpromsyonmo-burdan.cfd
 simdi-aldin.cfd
 simdi-aldin.com
 simdi-basvur.duckdns.org
-simdi-basvura.sbs
 simdi-buradan-eskiye-donuk-sorgulama.sbs
 simdi-ebasvuru.com
 simdi-gunu-com-tr.cyou
@@ -79013,7 +79013,6 @@ siparisssledrinddeeagustos.cloud
 siparistakip-pttavmde1.cfd
 siparistakip-pttavmde2.cfd
 siparistakip-pttavmde3.cfd
-siparistakippttavm1.cfd
 siparistakippttavmde.cfd
 siparistakippttavmde1.cfd
 siparistnym.online
@@ -80862,6 +80861,7 @@ sonnbsvrrprmsynnnkmpnyaaa.click
 sonnbsvrrprmsynnnkmpnyaaa.live
 sonnfrstlsrrrkmpnyaabsvrr.art
 sonnfrstlsrrrkmpnyaabsvrr.info
+sonnfrstlsrrrkmpnyaabsvrr.live
 sonnktadabrayaynlrsnzs.monster
 sonnnadddetlerkr.blogspot.com
 sonnnfrsltarrkmpnyaaabsvrkredi.info
@@ -87333,7 +87333,6 @@ tonllinemis1emenutrapp.online
 tonmtq.pics
 tony-actress-maintenance-frozen.trycloudflare.com
 tony.scriptdemo.top
-tonycommunity.xyz
 tonypaulforyou.shop
 toobfindr.com
 tooentmc.com
@@ -90157,6 +90156,7 @@ tvimeton.com
 tvlrkmrandveu.vip
 tvmnews.com
 tvoeim.com
+tvrjsdbsjackcs.online
 tvrkdrtsandvbhs.shop
 tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
@@ -91293,6 +91293,7 @@ utotoskan.duckdns.org
 uts-servicenow.com
 uttp-gov-tr.site
 uttsgovtr.com
+uttspetrolofisi.com
 uttsportalim.com
 uttts.com.tr
 utuyolarsalagi.cfd
@@ -92000,7 +92001,6 @@ vb-tanupdate.de
 vbbbxw.click
 vbbnbvsbnfgs1.shop
 vbcluy.help
-vbcn768347.click
 vbcncmpoejkwh8siok.pages.dev
 vbcnmds.click
 vbemksier.com
@@ -93455,7 +93455,6 @@ warsofzeltrion.com
 waruky.com
 warwarawra.my.canva.site
 wasaredoor.shop
-wascoe0dascoe234.top
 wash-less.online
 washing-cartridges-watts-flags.trycloudflare.com
 washquarry.bond
@@ -97926,6 +97925,7 @@ yklasmdsantskenas.online
 yklehgsbkyeykle.cfd
 yklehgsonlne.cfd
 yklehgsyklepra.cfd
+yklemdhgs.cfd
 yklemebsladi.cfd
 yklemesrguu.cfd
 ykleodekylesmdi.cfd
