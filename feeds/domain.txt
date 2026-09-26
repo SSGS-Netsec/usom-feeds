@@ -636,8 +636,10 @@
 101.webredirect.org
 10100002026.duckdns.org
 1010010177200.bounceme.net
+101001310177200.bounceme.net
 101010233123.duckdns.org
 10102dasdas02s2a2da.com
+10108283004588.bounceme.net
 10110001201201.duckdns.org
 10110101.co
 101101101.duckdns.org
@@ -646,6 +648,7 @@
 1011buradahepsii.sistemli.biz.tr
 101202303404505.info
 101202303404505.site
+1014545082504588.bounceme.net
 1014952.duckdns.org
 1015d1s1dsad40c0c2.com
 1015ghs52s3a6ds2c.com
@@ -28189,6 +28192,7 @@ e-alisveris-ilan-sepetim.com
 e-alisveris-tr.xyz
 e-alisveris.sbs
 e-alisveriskampanya.sbs
+e-alisverissepet.sbs
 e-aracislem.site
 e-ayuzbirozellikleri.digital
 e-basvurlar.servebeer.com
@@ -29663,7 +29667,6 @@ elektronik-merkezi-ilanlarim.com
 elektronik-satin-alimlarimiz.io
 elektronik-urun-sepetim.com
 elektronik-urunler-sepetimiz.com
-elektronikaidatiade.site
 elektronikalimlar.com
 elektronikalimlar.com.tr
 elektronikalimservisin.online
@@ -40730,7 +40733,6 @@ harikagunlersizlerlebirliktebekleniyorkacirma.online
 harikagunlersizlerlebirliktebekleniyorkacirma.xyz
 harikagunlukfirsatlarsizlerlebirliktegunlerde.com.tr
 harikagunlukfirsatlarsizlerlebirliktegunlerde.xyz
-harikagunluksevilenfirsatlar.com.tr
 harikahafta.shop
 harikahaftasonu.online
 harikahaziranindirimi.com.tr
@@ -44371,6 +44373,7 @@ hukukesorgu.org
 hukukgib.org
 hukukicezasorgu.com
 hukukiislemi.org
+hukukmali.org
 hukukmaliye.net
 hukukpaneli.org
 hukuksistem.net
@@ -48507,7 +48510,6 @@ iwasdevastated.biz
 iwasdevastated.vip
 iwaxtorn.com
 iwdmxwdxw.online
-iwfqhgfqwufwq-fwqhfisfawfqwq.cyou
 iwvhsw.help
 ix7qwney9wexn.com
 ixanrxdrmlrrlxmbxnslrm.click
@@ -57078,7 +57080,6 @@ loginsubem.click
 loginsuben.click
 logintr-web-entry.za.com
 logintr-web-security.site
-logintrcnbnra.com
 logisticabiomedica.com
 logistique-infosms-laposte.fr
 logiswebmail.top
@@ -58270,6 +58271,7 @@ maliclick1.ddnsfree.com
 malidava.com
 malidava.org
 malidosya.net
+malidosya.org
 malidosyalarim.org
 maliegm.net
 maliegm.org
@@ -58414,7 +58416,6 @@ mamo-ilegeceyedogru.com
 mamomethodmusaga.blogspot.com
 mamonol.cyou
 mamoocc.blogspot.com
-mamyqou.com
 man-ex.com
 manaflest.xyz
 manage-facetimeidms.datastatistics.nl
@@ -61688,7 +61689,6 @@ muhuguferedeliseli.lol
 muhugulipiferemceve.club
 muhyvau.com
 muicu.info
-muisepcxe.net
 mujco.cn
 mujdecicek.com
 mujuhubi-bililide.lol
@@ -65488,7 +65488,6 @@ onlinebelbiss.com
 onlinebelge.com.tr
 onlinebenty.vercel.app
 onlinebfnty.vercel.app
-onlinebinancesvco.vercel.app
 onlinebireyselcisatici.com.tr
 onlinebncagirislertr.com
 onlinebnnagirislertr.com
@@ -65810,7 +65809,6 @@ onlinetoki.net
 onlinetoki.org
 onlinetokibasvurusu.com
 onlinetokiduyuru.myonlineportal.ch
-onlinetttssbinancesvco.vercel.app
 onlinetuvtrkmuaynec.web.app
 onlinetvturkrandevum.click
 onlineucuzlukfirsati.com
@@ -70599,6 +70597,7 @@ ptt-govtur.help
 ptt-govtur.top
 ptt-govty.cc
 ptt-govty.top
+ptt-govv.cc
 ptt-govv.cfd
 ptt-govv.cyou
 ptt-govv.ink
@@ -73012,7 +73011,6 @@ ramazankanpanyaqnbli.com
 ramazankaraca.com.tr
 ramazankatalogburdastanleyteklfistermos.store
 ramazanlardanfaydalan.com
-ramazannfirsati.com.tr
 ramazannfirsatlarii.com
 ramazanonline.click
 ramazanozelbabalar.blogspot.com
@@ -74768,7 +74766,6 @@ s-paramguvende.guvenli-alisverislerim.sa.com
 s-paramguvende.ilan-onay-tr.online
 s-paramguvende.islembilgitr.online
 s-paramguvende.islemonaylatr.online
-s-paramguvende.odeme-ilanlarim.sa.com
 s-paramguvende.onaybilgi.online
 s-paramguvende.servis-hizmetleri.online
 s-paramguvende.servisbilgi-tr.online
@@ -79309,7 +79306,6 @@ sizldbe-brudsaa-aldin-aldin.com
 sizler-aldiniz-eklfiler-herzmn.com
 sizler-aldiniz-eklfiler-herzmn.store
 sizler-az-yuzun-gulsun.top
-sizler-bayrama-gelin-burada-mutlu-olun.com
 sizler-brudasn-kamp-aldin.shop
 sizler-bu-bayram-neseli-olunuz.com
 sizler-burada-neden-gelmiyorsun.top
@@ -84602,6 +84598,7 @@ tbrklm.click
 tbrklm25.click
 tbsaxashfdsasf.sbs
 tbstarbil.info
+tbtokyo.cc.cd
 tc-maliye-aidat-iade-merkezi.website
 tc-toki.basvuruodemesi.com
 tcadalet.com
@@ -90263,6 +90260,7 @@ tvtrkkdshhzimetburds.online
 tvtrkkdshhzimetburds.store
 tvtrkmafylari.duckdns.org
 tvtrkmygnealkdgaw.mooo.com
+tvtrkmynexx.duckdns.org
 tvtrkrndmvnbz.online
 tvtrkrnvdmlrm.com
 tvtrkrvdal.org
@@ -91407,6 +91405,7 @@ uyap-vatandassorgula.info
 uyapadalet.org
 uyaparabuluculuk.org
 uyaparsiv.org
+uyapbildirim.com
 uyapbilisim.com
 uyapborcsorgulama.org
 uyapcezasorgu.org
@@ -91556,6 +91555,7 @@ uzentra.com
 uzerlerguzelim.co
 uzlasmaaktifdosyasorgula.com
 uzlasmabaro.com
+uzlasmabildirim.com
 uzlasmabilgi.org
 uzlasmabilisim.com
 uzlasmabirim.org
