@@ -494,6 +494,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-tr.trendex-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
@@ -5641,6 +5642,7 @@ a101pro.shop
 a101promosyonindirimi.online
 a101ramazan-firsatlari.com
 a101ramazandayiz.duckdns.org
+a101reklam.com
 a101semsertsankimermer.com
 a101seninlebirlikte.com
 a101sevdalaradestek.duckdns.org
@@ -13798,7 +13800,6 @@ bayramozeel-tr.sbs
 bayramozel-karaaca.xyz
 bayramozelaktuel.blogspot.com
 bayramozelhaftasi.com
-bayramozelindirimaksam.com
 bayramozelsel.blogspot.com
 bayrampromosyon.com
 bayramsalislem.com
@@ -19233,6 +19234,7 @@ canonyazicitamir.com
 canopanel.site
 canopyco.icu
 canoveradcobntr.vercel.app
+canpackcom.com
 canpanybonus.digital
 canpolatayrus-yapicepavantaj.vercel.app
 canpost.id-89b98.com
@@ -32432,8 +32434,6 @@ feslink.net
 fessoclick.com
 fetch-tumpy-side.myonlineportal.ch
 fethiyeturizmseyahat.com
-fetihnamesubelerinde.com.tr
-fetihnamesubesinde.com.tr
 fetihnamesubesindeler.com.tr
 fetraa.com
 fetuconaruk.top
@@ -48167,6 +48167,7 @@ istkarthemen.xyz
 istkartl.blogspot.com
 istkartlabuanlama.duckdns.org
 istkartlahmnadak.com
+istkartlahmnodesal.xyz
 istkartlahzlacn.duckdns.org
 istkartlassnyada.com
 istkartll.blogspot.com
@@ -53191,7 +53192,6 @@ kkbayardom.space
 kkbayatarkk.duckdns.org
 kkbaytardom.click
 kkbaytardomdomadsrasd.duckdns.org
-kkbaytardomdomain.com
 kkbaytarkkds.com
 kkbaytarspacee.com
 kkbbfyfafjfs.space
@@ -54188,6 +54188,7 @@ kmsorgulamahizmettimiz.web.app
 kmsorgulamahzmetleriniz.online
 kmsorgulamahzmetleriniz.web.app
 kmsorgulamaiislemleri.web.app
+kmsorgulamaiislemleri1.web.app
 kmsorgulamaislemleri.web.app
 kmsorgulamaislemleri1.web.app
 kmsorgulamaislemleri2.web.app
@@ -68581,7 +68582,6 @@ phuyufact.com
 phygcsforum.life
 physicstrackerhub.xyz
 physicsvision.click
-piacmesgpa.net
 piaproxy.com
 pibonof342.online
 pibonof342.site
@@ -72345,7 +72345,6 @@ qnbpromosyonislemleri.xyz
 qnbpromosyonnm.vercel.app
 qnbpromsynlarlla.com
 qnbqnbdegerlendrme.vercel.app
-qnbqnbres.vercel.app
 qnbrdkampanyalarim.vercel.app
 qnbresko.vercel.app
 qnbreskor.vercel.app
@@ -88405,7 +88404,6 @@ trdavaesorgu.net
 trdavasorgu.net
 trdblnnnc.click
 trdebugunbslngickmp.sbs
-trdefirsatlardavar.shop
 trdekiwikcc241.shop
 trderlmod.shop
 trdestekmerkezi.cfd
@@ -95362,8 +95360,10 @@ www-cbsl-gov-lk.dwnlld.infomfa-gov-lk.dwnlld.info
 www-cebte-tvb-ony.myonlineportal.ch
 www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
+www-cep-on-btb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
+www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
