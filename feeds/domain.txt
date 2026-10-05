@@ -5447,7 +5447,6 @@ a101-shop.online
 a101-sponsor-bugune-ozel.online-sponsor-web-tr.com
 a101-st.duckdns.org
 a101.35647132937.com
-a101.bayramindirimleri743.com
 a101.bdyoutube.com
 a101.carsamba-firsatozxl.com
 a101.carsamba-frstkaynagi.com
@@ -5456,7 +5455,6 @@ a101.club
 a101.com.tr-online-ozel-firsat-kapinda.plussunucum.com
 a101.ct.ws
 a101.cuma-onlinehizmets.com
-a101.cumartesiramazanindirim.com
 a101.dijitalbayim.com
 a101.e-guvenli-alisveris-sistemi.com
 a101.empordafibra.com
@@ -7743,6 +7741,7 @@ aktuelindirimhaberleri.com
 aktuelindirimkulubu.xyz
 aktuelindirimliurunler18.duckdns.org
 aktuelindmrktleri.cfd
+aktuelindrm-101.com
 aktuelindrmcebd.duckdns.org
 aktuelizletessin.vip
 aktuelkampfirsati.click
@@ -8457,6 +8456,7 @@ alisveris-kapinizda.net.tr
 alisveris-kapinizda.org.tr
 alisveris-kapinizda.tv.tr
 alisveris-kapinizda.web.tr
+alisveris-odemesepeti.com
 alisveris-online-kampanya.fun
 alisveris-online.sbs
 alisveris-saati-com-tr.cfd
@@ -9864,6 +9864,7 @@ aracmuaynebakme.web.app
 aracmuaynehmztialma.web.app
 aracmuaynehzmtleri.xyz
 aracmuaynerandevular.web.app
+aracmuaynerandvu.art
 aracmuaynerandvu.web.app
 aracmuaynernduv.xyz
 aracmuaynerndvualmaj.web.app
@@ -13772,7 +13773,6 @@ bayramiadesi.site
 bayramiadesi.xyz
 bayramindirim.com
 bayramindirimihizli.com
-bayramindirimleri743.com
 bayramindirimlerii.com
 bayramindrimleribasladi-online-yuzbir.click
 bayramindrimleribasladi-online-yuzbir.ru.com
@@ -24832,7 +24832,6 @@ cumartesifirsatlarindabugun.cfd
 cumartesifirsatlarindabugun.sbs
 cumartesikaraca.com
 cumartesimayisnnf.com
-cumartesiramazanindirim.com
 cumarts-frstlr-brda.shop
 cumayaozelindirim.com
 cumbergin.com
@@ -28695,6 +28694,7 @@ ebayshop.help
 ebbvadijitalonizlemenugapptr.space
 ebebebebebebekkk.xyz
 ebebebebek.xyz
+ebebek.nivo.com.tr
 ebebekbasvuru.site
 ebebekdaindrm.net
 ebebekmiyoksa.nicepage.io
@@ -39589,6 +39589,7 @@ haberler163234.shop
 haberler1642432.shop
 haberler16572.sbs
 haberler167523.sbs
+haberler17427.sbs
 haberler17562.shop
 haberler18932.sbs
 haberler2026.co
@@ -45883,7 +45884,6 @@ inanci.top
 inandklrnzdnburdalar.com
 inandklrnzdnburdalar.info
 inandklrnzdnburdalar.online
-inanilmazkampanyalarsizlereozel.com.tr
 inanksit.top
 inanmadinbana.click
 inansei.top
@@ -55367,7 +55367,6 @@ kredifirsati.click
 kredifirsati.my
 kredifirsatlari.xyz
 kredifirsatlarimqnde.duckdns.org
-kredigrantidebayram.site
 kredigunleri.sbs
 kredihocasi.com
 krediibsvrrrkmnpyyyprmsnnn.info
@@ -56074,7 +56073,6 @@ lafimilaestermose.com
 lafimiliaestermose.com
 lafimiliaestermosio.com
 lafuritte.ru
-lahgosh.com
 laichingte.net
 laimafderfoil.top
 laismxj98skd342fcx.cfd
@@ -67234,7 +67232,6 @@ paparaqr.com
 papc.online
 papel-web-seven.vercel.app
 paperbee.xyz
-papitie.com
 pappis.xyz
 paptlogu5nm6nb4223.duckdns.org
 papuayenigne.xyz
@@ -71166,7 +71163,10 @@ pttavmhgsbakiyecnokatasi.web.app
 pttavmhgsbakiyedoldur.web.app
 pttavmhgsbakiyenokatasi.web.app
 pttavmhgsbakiyeyuklme.web.app
+pttavmhgsyukle.click
+pttavmhgsyukle.cloud
 pttavmhgsyukle.online
+pttavmhgsyukle.store
 pttavmhizlisepette.com
 pttavmikinciel.com
 pttavmilanlarim.com
@@ -72382,7 +72382,6 @@ qorva.sbs
 qorvani.gifts
 qorvendix.com
 qorvi.bond
-qosidie.com
 qostavem.com
 qov-tr.com
 qpnpqqpwb.com
@@ -72666,6 +72665,7 @@ r-493242.site
 r-bireyselservislerin.com
 r-nvdlsr-brdn-hmcn-m.web.app
 r-onayllnservishizmeti.com
+r-rndvakti.com
 r-sponsor-crs.web.tr
 r.byteengineering.net
 r.garantibbvakredibasvuru.com
@@ -80702,7 +80702,6 @@ songunfirsatlarinikacirmadanalmalisiniz.com.tr
 songunfirsatlarinikacirmadanalmalisiniz.online
 songunfirsatlarinikacirmadanalmalisiniz.xyz
 songunfirsatlarinikacirmadansatinal.com.tr
-songunfirsatlarinikacirmadansatinal.xyz
 songunfirsatlarinikacirmadansepetteurunler.com.tr
 songunfirsatlarinikacirmadansepetteurunler.online
 songunfirsatlarinikacirmadansepetteurunler.xyz
@@ -84351,6 +84350,7 @@ tarihsizvalibaba.duckdns.org
 tarikbacaklari.sbs
 tarim-ciftcim.my-homeip.com
 tarim-deniz.my-homeip.com
+tarim-kredi.com
 tarim-zirai.my-homeip.com
 tarim.my-homeip.com
 tarim667oyed.nicepage.io
