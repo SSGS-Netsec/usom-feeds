@@ -574,6 +574,7 @@
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
 101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online
+101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
@@ -760,6 +761,7 @@
 101aktuelurunlerieylul.duckdns.org
 101aldinaldinextra.sbs
 101aldinaldinsongun.com
+101aldinextrakapidan.sbs
 101aldnbrdnkcrma.cfd
 101alimfirsatkampanyalariburada.cfd
 101alimfirsatkampanyalariburada.my
@@ -1044,7 +1046,6 @@
 10kasimozel.cfd
 10niasnikaciesama.store
 10nisanfirsatlri.biz
-10nisanfirsatlri.com
 10nisanfirsatlri.site
 10nisanfirsatlri.space
 10sadcdajdskjakjkx123kx12312.sbs
@@ -7091,7 +7092,6 @@ aidatkartsizllere.duckdns.org
 aidatkolay.space
 aidatlarbasladihemenal1.cfd
 aidatmerkezigeridonuyor.cyou
-aidatmerkezigeridonuyor.sbs
 aidatmerkezigeridonuyor.xyz
 aidatmerkezislem.my-homeip.de
 aidatnoktan.xyz
@@ -10221,6 +10221,7 @@ artikdahagucluyuz.xyz
 artikdahaguvenli-15d7ab410032.herokuapp.com
 artikdahaguvenli-7b62ae7911ae.herokuapp.com
 artikkatildiburdaherkescabukbak76.site
+artikyalanyokye.sbs
 artisanaqua.ddnsking.com
 artisoft.duckdns.org
 artisticfuture.online
@@ -21657,7 +21658,6 @@ clnfirm-id66775.com
 clo4shara.xyz
 clo98g66qhut.storage.googleapis.com
 cloackajdvskkx131x231z2312.cfd
-cloacker-1a5c7.web.app
 cloacpae.ddnsfree.com
 cloakardansandans12.mooo.com
 cloakdenmesn.click
@@ -25640,6 +25640,7 @@ degerlimusterilerinadesi.pics
 degerodaklari.com
 degerodasi.com
 degerplatformu.com
+degilmii.sbs
 degisikligi.com
 degisiklik-hakkinda.ink
 degismeyenlere-birazdaha-sabit-kalinmazda-bilince.top
@@ -29880,6 +29881,7 @@ emailsrv.totalera.click
 emakbapaklugimanasehat.my.id
 emakihabar24.lovable.app
 emaliasliye.com
+emalidosya.com
 emalidosyasorgu.com
 emaliuyap.com
 emaliye.com
@@ -40950,6 +40952,7 @@ havalem-fast.com
 havalist.net
 havapfaomfasi.com
 havatamdaalisverishavasi.duckdns.org
+havaxistis.online
 havdan1sdanindrm01.site
 haven-t.live
 havenaura.click
@@ -43168,6 +43171,7 @@ hizlialisverisver.com.tr
 hizlialisversadresi.com.tr
 hizlialisversadresi.xyz
 hizlialveris.com.tr
+hizlianlikserilkampanyalarimburada.xyz
 hizliaracbzdolabi.xyz
 hizliaracgecisilieriniz.sbs
 hizliaracmuaynealma.xyz
@@ -43622,7 +43626,6 @@ hizlitukenecek.xyz
 hizlituvturkaracmuayne.web.app
 hizliuretsepetlerini.xyz
 hizliurlshortss.cfd
-hizliveguclu-9714bf88cabb.herokuapp.com
 hizliveguuvenimserviceds.com
 hizliveguvenilirsiparisler.site
 hizliveguvenilirsiparisleriniz.com.tr
@@ -44097,7 +44100,6 @@ homeneedslane.shop
 homeneedsmarket.shop
 homenejst.duckdns.org
 homenejstt.duckdns.org
-homeneslerkartal2025.duckdns.org
 homeneslerkartalbddk.duckdns.org
 homeneslerkartalbddk0055.duckdns.org
 homeneslerkartalbddk15.duckdns.org
@@ -50141,7 +50143,6 @@ kampanaylarikacirma.sbs
 kampanbizlerdens.com
 kampanhshshshs.com
 kampaniasla.p-t-t-hediye-gibi-kampanya.cfd
-kampanipersembe.xyz
 kampaniyazamani.com
 kampanpoxan.xyz
 kampanya-2421341q.site
@@ -51481,6 +51482,7 @@ kartpromosyonlarim.click
 kartrehberi.xyz
 kartsavar.xyz
 karttaiade.duckdns.org
+kartulisuperi.duckdns.org
 karty.click
 karvend.courses
 karvenil.com
@@ -60197,6 +60199,7 @@ mhsraca.sbs
 mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
+mhsrakog.sbs
 mhsrakoga.biz
 mhsrakoga.buzz
 mhsrakoga.lol
@@ -61863,6 +61866,7 @@ muhugudueresede-afderese.lol
 muhugudueretese-duguhuderede.lol
 muhugufe-redesede.lol
 muhuguferedeliseli.lol
+muhugufu-reteyeuy.lol
 muhugulipiferemceve.club
 muhyvau.com
 mujco.cn
@@ -65774,7 +65778,6 @@ onlinekilomtresorgularim.web.app
 onlinekirasozlesmesi.com
 onlinekmm.com
 onlinekmsorgulama.com
-onlinekmsorgums.web.app
 onlinekolay.com.tr
 onlinekontrol.org
 onlinekstra.com
@@ -66964,7 +66967,6 @@ p-t-t-eniyi-online-firsatlar.cfd
 p-t-t-firsat-rotasi.cfd
 p-t-t-firsat-zamani-basladi.cfd
 p-t-t-firsatlari-yakala-hemen.cfd
-p-t-t-gunluk-avantajli-alisveris.cfd
 p-t-t-gunun-en-iyi-deallari.cfd
 p-t-t-hediye-gibi-kampanya.cfd
 p-t-t-kactirma-kampanya-gunlugu.cfd
@@ -70450,7 +70452,6 @@ ptrleumsupport.com
 ptrlkazanc.com
 ptrlsupport.com
 ptrlvest.com
-ptsgovtr.top
 ptt--gov-tr.top
 ptt--gov.help
 ptt--gov.xyz
@@ -70874,6 +70875,7 @@ ptt.mobilservisler-34.sbs
 ptt.mobilservisler-49.sbs
 ptt.mobilservisler-65.sbs
 ptt.mobilservisler-67.sbs
+ptt.mobilservisler-75.sbs
 ptt.mobilservisler-87.sbs
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
@@ -78065,7 +78067,6 @@ sezindimrisnilerim.shop
 seznfirsatlari.shop
 sezoinuindirmisnleri.shop
 sezondaziro.com
-sezonikacirmsa.shop
 sezonindirimi.online
 sezonindirimibasladi101de.duckdns.org
 sezonkapamaprms-osyonkaomya87656.info
@@ -91686,7 +91687,6 @@ vakifbireysel-basvuru.vercel.app
 vakifbireyselgiris.click
 vakifbnkguvenlliodeme.com
 vakifbnkkkmobillbasvru.duckdns.org
-vakifbnkkkmpnyalar.duckdns.org
 vakifbnksubeduyurularim.vercel.app
 vakifcekilisbasvuruekrani4.duckdns.org
 vakifdijitalsistem.com
