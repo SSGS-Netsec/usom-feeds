@@ -639,7 +639,6 @@
 101-kampanya-firsat.ddns-ip.net
 101-kampanya-indirimlerigeldi.cfd
 101-kampanyalar-online.duckdns.org
-101-kapidafirsatlar.site
 101-kapindafirsat.com
 101-kapindafirsatlar.com
 101-kstra.s3.eu-north-1.amazonaws.com
@@ -5324,7 +5323,6 @@ a-101-tr-de-sadece-bugune-ozel-mobil.onlinecep-tr.site
 a-101-tr-de.onlinecep-tr.site
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a-101-tr-sadece-bugune-ozel-indirimler-sepeti-tr.mobil-ozel.site
-a-101.sa.com
 a-101.sadece-online-ozel-tr.site
 a-101c-o-mt-r.cyou
 a-101c00mt.cyou
@@ -5450,7 +5448,6 @@ a101-cepteindrmler.com
 a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-com-tr-onlineozel.duckdns.org
 a101-com-tr.duckdns.org
-a101-com.online
 a101-com.sa.com
 a101-com.tr.webliosy.online
 a101-cumafirsatlari.duckdns.org
@@ -8750,6 +8747,7 @@ aloo182.com
 alopaslt.vercel.app
 aloyogaoutlet.com.tr
 alpha-man.info
+alpha.diyanetisleribakanligi.vercel.app
 alphabitcapital.info
 alphacoresupplements.com
 alphagridnexus1.lol
@@ -10476,7 +10474,6 @@ asdsaf0sdvldmv.net
 asdsaqffllfe00n.net
 asdsdfgvsdfsdfsdf.cc.dvrlists.com
 asdser.click
-asdsfasjdhakjkj28.click
 asdsgkgsa23-21-21125521-241-12srfgds3t.com.tr
 asdsrversdersetrseser.com
 asdszdcxzaaaacsadcx.net
@@ -10854,7 +10851,6 @@ atici-bbaba-10--1flrstiyapyosiz-e-a-q.sbs
 aticidan-ynlendirme.cfd
 atina.space
 atismar-id3732.world
-atkafalarisizi.online
 atks.group
 atladimtumsekten.click
 atlanteplaza-book.com
@@ -14466,6 +14462,7 @@ beta-gemini-ads.com
 beta-man.info
 beta-manus.com
 beta-perplexity.com
+beta.diyanetisleribakanligi.vercel.app
 beta.turkcellpasajsanalmagaza.com
 betabeta.click
 betaform.click
@@ -26115,6 +26112,7 @@ developdisplay.online
 developer-package.dev
 developer.evsahibibasvuru.com
 developerbeta.dev
+development.diyanetisleribakanligi.vercel.app
 developmentway.online
 developrapid.online
 developstream.online
@@ -30894,7 +30892,6 @@ etrona.store
 etrtgrsaktf.com
 etsy-oop-3233.sbs
 ettimsabahsabahdance.shop
-etuchabez.xyz
 etunbdhaivs.net
 eturkehaberler.world
 etuv-turkl.digital
@@ -31751,6 +31748,7 @@ faceauth.pages.dev
 facebok.cx
 facebook--login-inactive.ph
 facebook--login-report.ph
+facebook--login-safe.ph
 facebook--login-security.ph
 facebook--login-session.ph
 facebook--signupzzzzzzzzzzzzzhu.ph
@@ -31766,6 +31764,7 @@ facebook-login-guide.com.ph
 facebook-login-help-de.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-se.com.ph
@@ -35042,6 +35041,7 @@ garanti-login.vercel.app
 garanti-mobil.click
 garanti-mobil.fixip.org
 garanti-nakit-destek.cloud
+garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
 garanti-nakit-merkezi.cloud
 garanti-nakit-noktasi.cloud
@@ -41461,6 +41461,7 @@ hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 hegesem.com
 hegeseodemesi.vercel.app
+hegwgsaagl.giize.com
 heilbronner-fruehlingssymposium.de
 heilongyk.top
 heimao-131.com
@@ -43322,7 +43323,6 @@ hizlicicek.space
 hizlicicekci.org
 hizlicicekler.duckdns.org
 hizlicicektr.online
-hizlidagitim.com.tr
 hizlidanismanlikllaar.com
 hizlidanismanlikllar.com
 hizlidanogren.xyz
@@ -45410,9 +45410,7 @@ igniteatt.com
 igwamr.click
 igwjt.click
 ihack.one
-ihauqhsqhsqu-uqhsahqsuqu.cfd
 ihauqhsqhsqu-uqhsahqsuqu.cyou
-ihauqhsqhsqu-uqhsahqsuqu.sbs
 ihavefriendseverywhere.xyz
 ihbar111111111106598357832.surge.sh
 ihbar155polisi.online
@@ -46652,7 +46650,6 @@ inidirimkapindalar.online
 initialize-configs.com
 initody.cyou
 inizdesignstudio.com
-ink-zany-paw.glitch.me
 inkalex.online
 inkalex.site
 inkandpens.com
@@ -46929,6 +46926,7 @@ intodevelop.top
 intr-et-gid-isi.cfd
 intrane-web.online
 intranet-web.click
+intranet.diyanetisleribakanligi.vercel.app
 intranet.evsahibibasvuru.com
 intranet.garantibbvakredibasvuru.com
 intranetiniz.com
@@ -56114,6 +56112,7 @@ l85sadhahsdhashsahdc8c9c6sds.click
 la-falise-hotel.today
 la1l1sa.art
 lab-vers.xyz
+lab.diyanetisleribakanligi.vercel.app
 labchem-wako-fujifilm.com
 labelc4.duckdns.org
 labodeguitaup.space
@@ -64114,7 +64113,6 @@ nsaxasdahdasd.cfd
 nsim-pa.info
 nsim-ph.info
 nsmdjb.help
-nsnayindakamyasigeldi.shop
 nsnayiozel.blogspot.com
 nsnayiozeldeyiz.blogspot.com
 nsndamutfagnzda.cfd
@@ -66981,7 +66979,6 @@ p-t-t-buguneozelavm.cfd
 p-t-t-dijital-indirim-dunyasi.cfd
 p-t-t-enfes-alisveris.cfd
 p-t-t-firsat-rotasi.cfd
-p-t-t-gunun-en-iyi-deallari.cfd
 p-t-t-hediye-gibi-kampanya.cfd
 p-t-t-kampanya-merkezi.cfd
 p-t-t-sepet-senligi.cfd
@@ -67273,6 +67270,7 @@ palmiye-sultan.forum
 palmiye-sultan.help
 palmiye-sultan.org
 palmiyesulltan.site
+palmiyesultam.site
 palmiyesultan.best
 palmiyesultan.business
 palmiyesultan.cc
@@ -69669,6 +69667,7 @@ prenovalik.capital
 prensesanka.xyz
 prepaid127.freeddns.org
 preponceg.top
+preprod.diyanetisleribakanligi.vercel.app
 prerain.shop
 prerain.site
 prerain.store
@@ -69706,6 +69705,7 @@ pretonixgroup.com
 pretrain.shop
 pretrain.site
 pretrain.store
+preview.diyanetisleribakanligi.vercel.app
 preview.evsahibibasvuru.com
 previewcentral.com
 previewdoc.us
@@ -76484,6 +76484,7 @@ sanchar6t.in
 sanctra.info
 sanctuarresortbwrvse.com
 sandalyenurgaz.click
+sandbox.diyanetisleribakanligi.vercel.app
 sandbox.silver-map-generator.shop
 sandegelbasvrkazan81.click
 sandgatez.com
@@ -83234,6 +83235,7 @@ svscnrsondanismanlik.blogspot.com
 svscrsondanismanlik.blogspot.com
 svspspadspsos.click
 svsrsondanismanlik.blogspot.com
+svsvsvsv123sv.duckdns.org
 svtergh-shtpl-mntek-rtees.rest
 svuatwea.love
 svvkkosfrsati.lat
@@ -85603,6 +85605,7 @@ test.asvufw.workers.dev
 test.blnance-basvuru.info
 test.clayrat.top
 test.diogoflix.com
+test.diyanetisleribakanligi.vercel.app
 test.evsahibibasvuru.com
 test.garantibbvakredibasvuru.com
 test.ikotech.online
@@ -94100,7 +94103,6 @@ werkbit.io
 werkmoun.com
 wernaym.com
 wersdfxcv.mygamesonline.org
-wertio-herniono.sbs
 wesir.net
 wesiradu-konaleti.lol
 wesooo.no-ip.biz
@@ -96100,7 +96102,6 @@ xn--awdada-2yae42ae31eea.com
 xn--banabaknuyanklar-gqcf.shop
 xn--basvurularbasladikacrma-7qd.urlbee.icu
 xn--bavurutoki-f9b.com
-xn--biburadayz-5ub.shop
 xn--binanetr-w0a.com.xn--tr-2caa
 xn--binanstr-p1a.com
 xn--binnc-tr-kza6f.com
@@ -97989,7 +97990,6 @@ ymdnma.help
 ymdreferans.online
 ymzjdl.help
 yn25o4hubb.storage.googleapis.com
-yndenykn.site
 ynfile.com
 ynfile19.com
 yngcslremotooavodesi.duckdns.org
