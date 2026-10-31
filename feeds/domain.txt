@@ -3272,7 +3272,6 @@
 3916520-7610987.com
 3918182212.duckdns.org
 392740.cloud
-395723.cloud
 3958762.cloud
 397865.cloud
 39892h2993g8h27s83.cyou
@@ -7267,9 +7266,11 @@ akbank.sbs
 akbankasi.online
 akbankbayramkredisi.vercel.app
 akbankbireysel-sube.ph
+akbankdirectonlineislemler.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
 akbankdirekt-kampanyalar.ph
+akbankdiretk.ph
 akbankfaizsizkredi.digital
 akbankingforwinning.duckdns.org
 akbankinvest.com
@@ -12012,6 +12013,7 @@ banisorid.xyz
 banisorit.xyz
 banisorixa.xyz
 bank.garantibbvakredibasvuru.com
+banka-akbank.ph
 bankaemeklipromosyonu.gen.rip
 bankafolder.com
 bankaguncelle.22web.org
@@ -15204,7 +15206,6 @@ bireyselnumaratasima.com
 bireyselonline.com.tr
 bireyselonlineplatform.com.tr
 bireyselonlineservisler.com
-bireyselpassword.sa.com
 bireyselpttavm.com
 bireyselqnb-basvuru.top
 bireyselsatici.com
@@ -15616,7 +15617,6 @@ blaoewoen.xyz
 blapas.click
 blapas.mom
 blapas.sa.com
-blapas.website
 blarevuni.gifts
 blast-hubs.com
 blastikcn.com
@@ -18100,7 +18100,6 @@ bunun-gibilerde-verdiklerine-bakarak-bilinir.com
 bunun-sonrasigibi-bilinen-hislerde-uzaktan-kalmayiz.top
 bunun-ve-sizinle-buradayiz.shop
 bunungibiherkeseyenidenvar.com
-bununicinvariz.shop
 bununla-hep-sizinle-buradayiz.shop
 bunuoylecegecme.sbs
 bunusendegormelisin.sbs
@@ -35154,6 +35153,7 @@ garantibbva-mobil.abrdns.com
 garantibbva-mobil.netlify.app
 garantibbva-mobil.web.app
 garantibbva-movistar.com.ph
+garantibbva-my-login.ph
 garantibbva-netflix.ph
 garantibbva-nus.com.ph
 garantibbva-odeme.netlify.app
@@ -43661,6 +43661,7 @@ hizlsidiebusejsd.online
 hizlsidiebusejsd.store
 hizlsiparis1agusotstts.cloud
 hizlteslmtlifrstlar1o1.xyz
+hizmet-akbank.ph
 hizmet-islememleri.com
 hizmet-merkezi-online.com
 hizmet-teb-basvur.my-homeip.de
@@ -61712,8 +61713,6 @@ mryes.clayratnik.top
 mrypage.pages.dev
 ms-25h2-download.pro
 ms-25h2-update.pro
-ms-azure.azdatastore.workers.dev
-ms-azure.herokuapp.com
 ms-global.first-update-server.com
 ms-server-default.com
 ms-sql-auth.com
@@ -63558,7 +63557,6 @@ nisan-burada.name.tr
 nisan-burada.org.tr
 nisan-burada.web.tr
 nisan-firsatlari.myonlineportal.de
-nisan-guzelliklerle-geldi-aktar.cyou
 nisan-market.org.tr
 nisan-noktasi.com.tr
 nisan-noktasi.net.tr
@@ -63578,7 +63576,6 @@ nisanilaca.click
 nisankampans.click
 nisankampanya-midirose.com.tr
 nisanmarket.biz.tr
-nisanmarket.org.tr
 nisanmartkampanyalari.shop
 nisannayikampanyasi.com.tr
 nisanozelfirsatlar101.com
@@ -65983,6 +65980,7 @@ onllinemis1emenutrapp.online
 onlndi-sileye-gt.cfd
 onlne-182.cfd
 onlne-182.xyz
+onlne-akbank.ph
 onlne-intrnet-basvrm.com
 onlne-islem-yap.com
 onlnealmfrsat.site
@@ -80632,7 +80630,6 @@ songunfirsatlarinikacirmadanalmalisiniz.com.tr
 songunfirsatlarinikacirmadanalmalisiniz.online
 songunfirsatlarinikacirmadanalmalisiniz.xyz
 songunfirsatlarinikacirmadanurunlerialmalisin.com.tr
-songunfirsatlarinikacirmadanurunlerialmalisin.online
 songunfirsatlarisizlerlebugun.com.tr
 songunfirsatlarisizlerlebugun.online
 songunfirsatlarisizlerlebugun.xyz
@@ -82744,6 +82741,7 @@ sube-garenti.my-homeip.de
 sube-geranti-bireysel.my-homeip.com
 sube-gerantide.my-homeip.net
 sube-grnti.lat
+sube-hakbank.ph
 sube-infoyatirim.com
 sube-internet.xyz
 sube-kanalonline.click
@@ -86304,6 +86302,7 @@ togghaziran5000.com
 togghizlibasvuru.sbs
 togghizlikayit.com
 togghizlisatis.cfd
+toggkampanya.com
 toggkayit.com
 toggkredim.com
 toggkredim.net
@@ -98932,6 +98931,7 @@ zawkbntr-shop.club
 zawsterris.com
 zaxenorudikq.com
 zayaca.info
+zazza.22web.org
 zbaforumkf.cfd
 zbasvuru4.myaddr.io
 zbasvuru50000.myaddr.io
